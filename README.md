@@ -1,8 +1,8 @@
 # python_bootcamp2018
 Python Bootcamp for UW Foster School of Business
 
-Python Basics
-Day 1: basic programming in python
+## Python Basics
+[Day 1: basic programming in python](https://github.com/summerela/python_bootcamp2018/blob/master/python_basics/README.md)
 
-Pandas Basics
-Day 2: basic pandas for data science
+## Pandas Basics
+[Day 2: basic pandas for data science](https://github.com/summerela/python_bootcamp2018/tree/master/pandas_basics)
