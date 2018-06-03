@@ -10,6 +10,6 @@
 ### [Data Structures](Python%20Bootcamp-%20Data%20Structures.ipynb)
 ### [Working with objects](Python%20Bootcamp-%20Working%20with%20objects.ipynb)
 ### [Strings](Python%20Bootcamp-%20Strings.ipynb)
-### [Lists](Python%20Bootcamp%20-%20Lists.ipynb)
+### [Lists](Python%20Bootcamp-%20Lists.ipynb)
 ### [Dictionaries](Python%20Bootcamp%20-%20Dictionaries.ipynb)
 ### [Lab 2: ]
