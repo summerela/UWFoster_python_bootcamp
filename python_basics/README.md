@@ -11,5 +11,5 @@
 ### [Working with objects](Python%20Bootcamp-%20Working%20with%20objects.ipynb)
 ### [Strings](Python%20Bootcamp-%20Strings.ipynb)
 ### [Lists](Python%20Bootcamp-%20Lists.ipynb)
-### [Dictionaries](Python%20Bootcamp%20-%20Dictionaries.ipynb)
-### [Lab 2: ]
+### [Dictionaries](Python%20Bootcamp-%20Dictionaries.ipynb)
+### [Lab 2: Indexing and Slicing]
