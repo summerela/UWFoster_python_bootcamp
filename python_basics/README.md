@@ -16,6 +16,7 @@
 
 ## Advanced Operations
 ### [File Handling](File%20Handling.ipynb)
-### [Flow Control]
-### [Functions and Loops]
+### [Flow Control](Flow%20Control.ipynb)
+### [Functions]
+### [Loops]
 ### [Lab 3: Creating your first script]
