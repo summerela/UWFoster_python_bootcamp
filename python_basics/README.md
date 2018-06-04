@@ -15,7 +15,7 @@
 ### [Lab 2: Indexing and Slicing](Lab2-%20Indexing%20and%20Slicing.ipynb)
 
 ## Advanced Operations
-### [File Handling]
+### [File Handling](File%20Handling.ipynb)
 ### [Flow Control]
 ### [Functions and Loops]
 ### [Lab 3: Creating your first script]
