@@ -12,4 +12,4 @@
 ### [Strings](Python%20Bootcamp-%20Strings.ipynb)
 ### [Lists](Python%20Bootcamp-%20Lists.ipynb)
 ### [Dictionaries](Python%20Bootcamp-%20Dictionaries.ipynb)
-### [Lab 2: Indexing and Slicing]
+### [Lab 2: Indexing and Slicing](Lab2-%20Indexing%20and%20Slicing.ipynb)
