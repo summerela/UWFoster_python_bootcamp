@@ -19,4 +19,4 @@
 ### [Flow Control](./notebooks/Flow%20Control.ipynb)
 ### [Functions](./notebooks/Functions.ipynb)
 ### [Loops](./notebooks/Loops.ipynb)
-### [Lab 3: Creating your first script]
+### [Lab 3: Creating your first script](./labs/Lab3.ipynb)
