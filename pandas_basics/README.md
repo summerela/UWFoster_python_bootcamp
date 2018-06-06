@@ -7,8 +7,8 @@
 ### [Reading and Writing In Data with Pandas](./notebooks/Reading%20and%20Writing%20Data%20with%20Pandas.ipynb)
 
 ## Dataframe Manipulation
-### [Working with Columns]
-### [Concatenate and Join Dataframes]
+### [Working with Columns](./notebooks/Working%20with%20Pandas%20Columns.ipynb)
+### [Concatenate and Join Dataframes](./notebooks/Concatenate_Join_Merge.ipynb)
 ### [Grouping Dataframes]
 ### [Dataframe Math Operations]
 
