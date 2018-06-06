@@ -24,7 +24,7 @@
 ### [Reading and Writing Data Into Pandas](../pandas_basics/notebooks/Reading%20and%20Writing%20Data%20with%20Pandas.ipynb)
 ### [Working with columns](../pandas_basics/notebooks/Working%20with%20Pandas%20Columns.ipynb)
 ### [Concatenate and join](../pandas_basics/notebooks/Concatenate_Join_Merge.ipynb)
-### [Intro to Data Analysis]
+### [Intro to Data Analysis](../python_basics/notebooks/Data%20Analysis.ipynb)
 
 ## Learn on Your Own
 ### [File Handling in python](./notebooks/File%20Handling.ipynb)
