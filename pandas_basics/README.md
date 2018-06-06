@@ -9,12 +9,11 @@
 ## Dataframe Manipulation
 ### [Working with Columns](./notebooks/Working%20with%20Pandas%20Columns.ipynb)
 ### [Concatenate and Join Dataframes](./notebooks/Concatenate_Join_Merge.ipynb)
-### [Grouping Dataframes]
+### [Grouping Dataframes](./notebooks/Grouping%20Data%20Frames.ipynb)
 ### [Dataframe Math Operations]
 
 ## Data Science with Pandas
-### [Datframe Statistics]
-### [Dealing with Nulls]
-### [Date Time Objects]
-### [Grahping with MatPlotLib]
 ### [Intro to sklearn]
+### [Datframe Statistics]
+### [Grahping with MatPlotLib]
+
