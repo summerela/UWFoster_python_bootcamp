@@ -2,6 +2,7 @@
 
 ## Introduction
 ### [Bootcamp overview](./notebooks/Python%20Bootcamp-%20Intro.ipynb)
+### [Using Jupyter Notebook](../pandas_basics/notebooks/Using%20Jupyter%20Notebook.ipynb)
 ### [Data Constructs](./notebooks/Python%20Bootcamp%20-%20Data%20Constructs.ipynb)
 ### [Math](./notebooks/Python%20Bootcamp-%20Math.ipynb)
 ### [Lab 1: Math in Jupyter Notebook](./labs/Lab1-%20Math.ipynb)
@@ -20,3 +21,5 @@
 ### [Functions](./notebooks/Functions.ipynb)
 ### [Loops](./notebooks/Loops.ipynb)
 ### [Lab 3: Creating your first script](./labs/Lab3.ipynb)
+
+
