@@ -10,7 +10,7 @@
 ### [Working with Columns](./notebooks/Working%20with%20Pandas%20Columns.ipynb)
 ### [Concatenate and Join Dataframes](./notebooks/Concatenate_Join_Merge.ipynb)
 ### [Grouping Dataframes](./notebooks/Grouping%20Data%20Frames.ipynb)
-### [Dataframe Math Operations]
+### [Lab: Dataframe Math Operations](../labs/Pandas%20Math.ipynb)
 
 ## Data Science with Pandas
 ### [Intro to sklearn]
