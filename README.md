@@ -8,4 +8,4 @@ Python Bootcamp for UW Foster School of Business
 [Day 2: basic pandas for data science](https://github.com/summerela/python_bootcamp2018/tree/master/pandas_basics)
 
 ## Advanced Topics
-[Day 3: more with python and pandas]
+[Day 3: more with python and pandas](https://github.com/summerela/python_bootcamp2018/blob/master/advanced/README.md)
