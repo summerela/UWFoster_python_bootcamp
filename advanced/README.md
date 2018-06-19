@@ -1,7 +1,8 @@
 ## Doing things in python
-### [Flow Control](./notebooks/Flow%20Control.ipynb)
-### [Functions](./notebooks/Functions.ipynb)
-### [Loops](./notebooks/Loops.ipynb)
+### [Flow Control](../python_basics/notebooks/Flow%20Control.ipynb)
+### [Functions](../python_basics/notebooks/Functions.ipynb)
+### [Loops](../python_basics/notebooks/Loops.ipynb)
+### [Lab: FizzBuzz](../python_basics/labs/FizzBuzz_Lab.ipynb)
 
 ## Intro to data anlysis with python and pandas
 ### [Using Jupyter Notebook](../pandas_basics/notebooks/Using%20Jupyter%20Notebook.ipynb)
