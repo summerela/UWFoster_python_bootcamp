@@ -12,8 +12,3 @@
 ### [Grouping Dataframes](./notebooks/Grouping%20Data%20Frames.ipynb)
 ### [Lab: Dataframe Math Operations](../labs/Pandas%20Math.ipynb)
 
-## Data Science with Pandas
-### [Intro to sklearn]
-### [Datframe Statistics]
-### [Grahping with MatPlotLib]
-
