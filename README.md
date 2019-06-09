@@ -19,16 +19,8 @@
 ### [Functions](./notebooks/Functions.ipynb)
 ### [Loops](./notebooks/Loops.ipynb)
 
-## Intro to Pandas
-### [Intro to Pandas](..pandas_basics/notebooks/Intro%20to%20Pandas.ipynb)
-### [Reading and Writing Data Into Pandas](../pandas_basics/notebooks/Reading%20and%20Writing%20Data%20with%20Pandas.ipynb)
-### [Working with columns](../pandas_basics/notebooks/Working%20with%20Pandas%20Columns.ipynb)
-### [Concatenate and join](../pandas_basics/notebooks/Concatenate_Join_Merge.ipynb)
-### [Intro to Data Analysis](../python_basics/notebooks/Data%20Analysis.ipynb)
-
 ## Learn on Your Own
 ### [File Handling in python](./notebooks/File%20Handling.ipynb)
 ### [Lab: Creating your first script](./labs/Lab3.ipynb)
-### [Grouping in Pandas](../pandas_basics/notebooks/Grouping%20Data%20Frames.ipynb)
-### [Lab: Math in pandas](..pandas_basics/labs/Pandas%20Math.ipynb)
+
 
