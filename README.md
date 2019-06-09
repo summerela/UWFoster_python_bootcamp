@@ -18,10 +18,11 @@
 ### [Flow Control](./python_basics/notebooks/Flow%20Control.ipynb)
 ### [Functions](./python_basics/notebooks/Functions.ipynb)
 ### [Loops](./python_basics/notebooks/Loops.ipynb)
+### [Lab 3: FizzBuzz](./python_basics/labs/FizzBuzz_Lab.ipynb)
 
 ## Additional Learning
 ### [File Handling in python](./python_basics/notebooks/File%20Handling.ipynb)
 ### [Lab: Creating your first script](./python_basics/labs/Lab3.ipynb)
-### [Extra Practice: FizzBuzz](./python_basics/labs/FizzBuzz_Lab.ipynb)
+### [Lab Answer Key: Creating Your Own Script](./python_basics/labs/Lab3- Answer Key.ipynb)
 
 
