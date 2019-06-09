@@ -19,7 +19,7 @@
 ### [Functions](./python_basics/notebooks/Functions.ipynb)
 ### [Loops](./python_basics/notebooks/Loops.ipynb)
 
-## Learn on Your Own
+## Additional Learning
 ### [File Handling in python](./python_basics/notebooks/File%20Handling.ipynb)
 ### [Lab: Creating your first script](./python_basics/labs/Lab3.ipynb)
 ### [Extra Practice: FizzBuzz](./python_basics/labs/FizzBuzz_Lab.ipynb)
