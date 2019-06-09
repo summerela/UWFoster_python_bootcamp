@@ -1,4 +1,4 @@
-# Python Bootcamp Day 1: Python Basics
+# Python Bootcamp- Fundamentals of Python
 
 ## Introduction
 ### [Bootcamp overview](./notebooks/Python%20Bootcamp-%20Intro.ipynb)
