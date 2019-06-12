@@ -1,5 +1,8 @@
 # Python Bootcamp- Fundamentals of Python
 
+## Contact Me
+summe@uw.edu
+
 ## Introduction
 ### [Bootcamp overview](./python_basics/notebooks/Python%20Bootcamp-%20Intro.ipynb)
 ### [Using Jupyter Notebook](./python_basics/notebooks/Using%20Jupyter%20Notebook.ipynb)
