@@ -7,11 +7,12 @@ summe@uw.edu
 ### [Bootcamp overview](./python_basics/notebooks/Python%20Bootcamp-%20Intro.ipynb)
 ### [Using Jupyter Notebook](./python_basics/notebooks/Using%20Jupyter%20Notebook.ipynb)
 ### [Data Constructs](./python_basics/notebooks/Python%20Bootcamp%20-%20Data%20Constructs.ipynb)
+### [Working with Objects](https://github.com/summerela/UWFoster_python_bootcamp/blob/master/python_basics/notebooks/Python%20Bootcamp-%20Working%20with%20objects.ipynb)
 ### [Math](./python_basics/notebooks/Python%20Bootcamp-%20Math.ipynb)
 ### [Lab 1: Math in Jupyter Notebook](./python_basics/labs/Lab1-%20Math.ipynb)
 
 ## Data Structures
-### [Data Structures](./python_basics/notebooks/Python%20Bootcamp-%20Data%20Structures.ipynb)
+### [Intro to Data Structures](./python_basics/notebooks/Python%20Bootcamp-%20Data%20Structures.ipynb)
 ### [Strings](./python_basics/notebooks/Python%20Bootcamp-%20Strings.ipynb)
 ### [Lists](./python_basics/notebooks/Python%20Bootcamp-%20Lists.ipynb)
 ### [Dictionaries](./python_basics/notebooks/Python%20Bootcamp-%20Dictionaries.ipynb)
