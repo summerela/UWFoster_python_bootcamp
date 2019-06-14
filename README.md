@@ -28,6 +28,7 @@ summe@uw.edu
 ### [File Handling in python](./python_basics/notebooks/File%20Handling.ipynb)
 ### [Lab: Creating your first script](./python_basics/labs/Lab3.ipynb)
 ### [Lab Answer Key: Creating Your Own Script](https://github.com/summerela/UWFoster_python_bootcamp/blob/master/python_basics/labs/Lab3-%20Answer%20Key.ipynb)
+### [Intro to Python Course Material](https://github.com/summerela/intro_programming_python)
 
 
 
